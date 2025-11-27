@@ -73,7 +73,7 @@ Configura le seguenti variabili nel file `.env`:
 - Per costruire le immagini e avviare i container:
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 Qualora non funzionasse, digitare:
