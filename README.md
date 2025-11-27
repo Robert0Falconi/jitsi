@@ -1,8 +1,8 @@
 <p align="center">
     <img src="https://github.com/Robert0Falconi/jitsi/blob/main/config/custom/web/images/jitsi-logo.png" alt="Jitsi" width="100">
 </p>
+<h1 align="center">JITSI</h1>
 <p align="center">
-    <span class="h1">JITSI</span>
     <em>Piattaforma self-hosted per videoconferenze open source</em>
 </p>
 
