@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Robert0Falconi/jitsi/blob/main/config/custom/web/images/jitsi-logo.png" alt="Jitsi" width="100">
+    <img src="https://github.com/Robert0Falconi/docker-jitsi-meet/blob/main/config/custom/web/images/jitsi-logo.png" alt="Jitsi" width="100">
 </p>
 <h1 align="center">JITSI</h1>
 <p align="center">
@@ -43,8 +43,8 @@ Se Git non è già installato sul tuo sistema, scaricalo e installalo seguendo l
 Apri il terminale e digita il comando:
 
 ```bash
-git clone https://github.com/Robert0Falconi/jitsi.git
-cd jitsi
+git clone https://github.com/Robert0Falconi/docker-jitsi-meet.git
+cd docker-jitsi-meet
 ```
 
 ### Installazione di Docker
